@@ -341,7 +341,7 @@ footer>p{
 }
 .item h3{
     color:var(--color-header);
-    font-size: 20px;
+    font-size: 18px;
 }
 .item p{
     color:var(--color-font);
