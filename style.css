@@ -138,7 +138,7 @@ nav a{
 
 .layout{
     height: 380px;
-    width: 500px;
+    width: 100%;
     border: 1px solid var(--color-blue);
     border-radius: 10px;
     background-color: rgba(235,239,247,255);
@@ -253,6 +253,9 @@ nav a{
 }
 .discover_right{
     gap: 60px;
+}
+.discover_left{
+    width: 100%;
 }
 /* discover_container */
 
